@@ -1,0 +1,10 @@
+###  Build
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+
+### Arquivos temporarios vs
+.vs/
+.suo
+.obj/
